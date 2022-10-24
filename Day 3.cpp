@@ -18,4 +18,4 @@ public:
         else 
             return nums3[a/2];
     }
-};
+};   
